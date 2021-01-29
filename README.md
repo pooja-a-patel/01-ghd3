@@ -1,6 +1,8 @@
 Assignment 1 - Hello World: GitHub and d3  
 ===
 
+https://pooja-a-patel.github.io/01-ghd3/index.html
+
 This is a starting project to make sure you can write and host a webpage that generates graphics using d3. 
 
 The primary goal is to be able to generate graphics primitives (circles, rectangles, lines, polygons) at different locations on the screen with different colors. 
