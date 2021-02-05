@@ -7,8 +7,8 @@ For this assignment I decided to use the d3 shapes to create a beachfront image 
 ![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/SVG_Image.png)
 
 I used two color schemes to make the imagery more appealing, one for the background sunset gradient and one for the tree.
-![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/OrangeColors.png)
-![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/GreenColors.png)
+![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/OrangeColors.PNG)
+![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/GreenColors.PNG)
 
 ## Requirements
 1. Your project should contain at least four kinds of graphics primitives (circles, rectangles, lines, polygons) in different colors.  
