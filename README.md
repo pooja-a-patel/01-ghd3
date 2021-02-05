@@ -4,11 +4,11 @@ Assignment 1 - Hello World: GitHub and d3
 [https://pooja-a-patel.github.io/01-ghd3/index.html](https://pooja-a-patel.github.io/01-ghd3/index.html)  
 
 For this assignment I decided to use the d3 shapes to create a beachfront image overlooking a sunset. The image incorporates the graphic primitives: circles, rectangles, lines, and polygons. The circles were used to create the sun, the rectangles were used to create the ocean  and tree stump, lines were used to create a horizon and the sand area, and the polygons were used to create the bird, and tree layers.
-![image](https://github.com/pooja-a-patel/01-ghd3/blob/master/SVG_Image.png)
+![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/SVG_Image.png)
 
 I used two color schemes to make the imagery more appealing, one for the background sunset gradient and one for the tree.
-![image](https://github.com/pooja-a-patel/01-ghd3/blob/master/OrangeColors.png)
-![image](https://github.com/pooja-a-patel/01-ghd3/blob/master/GreenColors.png)
+![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/OrangeColors.png)
+![image](https://github.com/pooja-a-patel/01-ghd3/blob/main/GreenColors.png)
 
 ## Requirements
 1. Your project should contain at least four kinds of graphics primitives (circles, rectangles, lines, polygons) in different colors.  
